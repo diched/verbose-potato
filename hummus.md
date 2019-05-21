@@ -1,7 +1,5 @@
 # A recipe for hummus
 
-- chickpeas
-- tahini
+- beans
 - olive oil
 - salt & pepper
-- lemon
