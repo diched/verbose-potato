@@ -7,6 +7,8 @@
 
 Boil and mix
 
+Just add some avocado
+
 Learning to use **GIT**
 
 GIT course by Toby Hodges
