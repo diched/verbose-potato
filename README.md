@@ -1,6 +1,7 @@
 # A detailed recipe for a potato meal
 
 - potatoes
+- tomatoes
 - onions
 - salt and pepper
 
